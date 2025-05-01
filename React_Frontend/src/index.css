@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+body {
+    background-color: #222724;
+    font-family: "Jersey 15", sans-serif;
+  }
